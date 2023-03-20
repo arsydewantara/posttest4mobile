@@ -1,16 +1,7 @@
 # posttest4_033_arsy
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tema Projek : Game Shop
+Nama Projek : Game Zone
+Nama        : Muhammad Arsy Dewantara
+NIM         : 2009106033
+Kelas       : Informatika A 20
